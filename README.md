@@ -12,10 +12,10 @@ Złożenie manipulatora z podstawą, obudową i ramionami.
 ## Konstrukcja ramion
 Szczegóły przegubów, rozmieszczenia napędów i podparcia wałów.
 
-![Konstrukcja ramion](<Screenshot_2(1).jpg>)
+![Konstrukcja ramion](<Screenshot_2.jpg>)
 
 ## Mechanizm obrotu podstawy
 Widok silnika, przekładni zębatej i łożyskowania
 po odsłonięciu obudowy.
 
-![Mechanizm obrotu podstawy](<Screenshot_1(1).jpg>)
+![Mechanizm obrotu podstawy](<Screenshot_1.jpg>)
